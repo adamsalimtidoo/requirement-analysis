@@ -36,6 +36,9 @@ Requirement analysis is part of the foundational stage of every Software Develop
 - Example, loading time and responsiveness
 ## Use Case Diagrams
 ![alx-booking-uc](https://github.com/user-attachments/assets/ad6e2e76-56be-406f-bb8f-814ff3f8dbe2)
+## Acceptance Criteria
+- Acceptance criteria defines clear key deliverables of project features.
+- For this project the acceptance criteria include the following: Users Account; Checkin, Checkout, Payment,Review,Rating, Property List, Search property.
 
 
 
