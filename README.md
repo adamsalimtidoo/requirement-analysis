@@ -27,4 +27,13 @@ Requirement analysis is part of the foundational stage of every Software Develop
 - Confirmation of acceptance criteria
 - Review of documentation to ensure completeness
 - Establish traceability methods
+## Types of Requirements
+### Functional Requirements
+- Functional requirements descibe what the system should do.
+- Example, User loggins and how they will be authenticated
+### Non-Functional Requirements
+- Non-functional requirements describe how the system should perform.
+- Example, loading time and responsiveness
+## Use Case Diagrams
+- 
 
